@@ -22,7 +22,7 @@ I have published papers at **top conferences**. **Google Scholar**: <a href='htt
 - **Mar 2026**: &nbsp;🎉 Our paper **MolRecBench-Wild** is accepted by <span class="highlight">CVPR 2026 Findings</span> (<u>Co-first Author</u>).
 - **May 2025**: &nbsp;🎉 Our paper on **Efficient Graph Continual Learning** is accepted by <span class="highlight">ICML 2025</span> (<u>Co-first Author</u>).
 
-# 📝 Publications 
+# 📄 Preprints
 
 <div class='paper-box paper-box--text-only'>
 <div class='paper-box-text' markdown="1">
@@ -34,6 +34,8 @@ I have published papers at **top conferences**. **Google Scholar**: <a href='htt
 [**arXiv**](https://arxiv.org/abs/2608.03525) / [**Online Service**](https://mineru.net/OpenSourceTools/Extractor)
 </div>
 </div>
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/publication4.jpg' alt="HPFA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
