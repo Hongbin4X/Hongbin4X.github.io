@@ -20,6 +20,9 @@
             {{ content }}
           </section>
         </div>
+        {% if page.permalink == '/' %}
+          {% include personal-footer.html %}
+        {% endif %}
       </article>
     </div>
 

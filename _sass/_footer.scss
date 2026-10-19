@@ -90,3 +90,98 @@
     }
   }
 }
+
+.personal-footer {
+  clear: both;
+  margin: 0 0 1em;
+  padding-top: 2.5rem;
+  text-align: center;
+}
+
+.footer-note {
+  position: relative;
+  display: inline-block;
+
+  &__button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: transparent;
+    color: #c993a5;
+    font: 20px/1 Georgia, serif;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: color 180ms ease;
+
+    &:hover, &:focus-visible {
+      color: #b5788d;
+      background: transparent;
+    }
+
+    &:focus-visible {
+      outline: 1px solid #c993a5;
+      outline-offset: 2px;
+    }
+  }
+
+  &__caption {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 6px 10px;
+    border-radius: 6px;
+    background: #fcf7f9;
+    color: #865a6a;
+    font: italic 13px/1.5 Georgia, serif;
+    width: 320px;
+    max-width: calc(100vw - 32px);
+    box-sizing: border-box;
+    white-space: normal;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 180ms ease;
+  }
+
+  &:hover &__caption,
+  &:focus-within &__caption,
+  &.is-active &__caption {
+    visibility: visible;
+    opacity: 1;
+  }
+
+  &__particles {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  &__particle {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    color: #dfafbe;
+    font: 17px/1 Georgia, serif;
+    animation: footer-note-float 1400ms ease-out forwards;
+  }
+}
+
+@keyframes footer-note-float {
+  from { opacity: 0.9; transform: translate(-50%, 0) scale(0.8); }
+  to { opacity: 0; transform: translate(calc(-50% + var(--drift)), -65px) scale(1.15); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .footer-note__button, .footer-note__caption { transition: none; }
+  .footer-note__particle { display: none; animation: none; }
+}
+
+@media print {
+  .personal-footer { display: none; }
+}
