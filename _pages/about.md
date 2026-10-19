@@ -16,6 +16,7 @@ I have published papers at **top conferences**. **Google Scholar**: <a href='htt
 
 
 # 🔥 News
+- **Oct 2026**: &nbsp;🍀 Our paper **When Silence Becomes Distance: Diagnosing and Repairing Recall Loss in a Full-Duplex Speech Model** is submitted to the <span class="highlight">ACL ARR October 2026</span> cycle (<u>Co-author</u>).
 - **Aug 2026**: &nbsp;📄 Our paper **MinerU.Chem** is available on <span class="highlight">arXiv</span> (<u>Co-contributor</u>).
 - **Jul 2026**: &nbsp;🎉 Our paper **HPFA** is accepted by <span class="highlight">COLM 2026</span> (<u>Co-first Author</u>).
 - **Jul 2026**: &nbsp;🍀 Our paper **StackPlanner** is submitted to <span class="highlight">AAAI 2027</span>, under review (<u>Co-author</u>).
