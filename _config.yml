@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hongbin Lai"
-description              : "M.S. Student in Computer Science at Peking University. Research interests: Data-Centred AI, LLM Agent, and Post-Training."
+description              : "M.S. Student in Computer Science at Peking University. Research interests: World Model Evaluation, Synthetic Data Generation, and Full-Duplex Interaction."
 repository               : "Hongbin4X/hongbin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ author:
   bio              : |
       **M.S. Student** in Computer Science at Peking University.
 
-      **Research interests:** Data-Centred AI, LLM Agent, and Post-Training.
+      **Research interests:** World Model Evaluation, Synthetic Data Generation, and Full-Duplex Interaction.
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : 

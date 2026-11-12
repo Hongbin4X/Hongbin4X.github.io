@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hongbin Lai"
-excerpt: "Research interests: Data-Centred AI, LLM Agent, and Post-Training."
+excerpt: "Research interests: World Model Evaluation, Synthetic Data Generation, and Full-Duplex Interaction."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is **Hongbin Lai**. I am currently pursuing an **M.S.** at **Peking University**. My research interests lie in **LLM Agent**, **Post-Training**, and **Data-Centric AI**. As I continue to dive deeper into this evolving field, I am eager to explore innovative solutions, and I would sincerely appreciate guidance, discussions, and opportunities for collaboration.
+Hi, my name is **Hongbin Lai**. I am currently pursuing an **M.S.** at **Peking University**. My research interests lie in **World Model Evaluation**, **Synthetic Data Generation**, and **Full-Duplex Interaction**. As I continue to dive deeper into this evolving field, I am eager to explore innovative solutions, and I would sincerely appreciate guidance, discussions, and opportunities for collaboration.
 
 I have published papers at **top conferences**. **Google Scholar**: <a href='https://scholar.google.com/citations?user=D1ESeY0AAAAJ&hl=en&oi=ao'>citations</a>.
 
